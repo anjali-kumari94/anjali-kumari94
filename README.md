@@ -152,10 +152,10 @@ user authentication, and persistent chat history.
 
 ## 🏆 Certifications
 
-- ☁️ **AWS Cloud Practitionerr** *(add your actual cert name)*
-- 🐳 **Docker & Kubernetes** *(add your actual cert name)*
-- 🌐 **Full Stack Web Development** *(add your actual cert name)*
-- 📦 **GCP** *(add your actual cert name)*
+- ☁️ **AWS Cloud Practitionerr** 
+- 🐳 **Docker & Kubernetes** *(udemy)*
+- 🌐 **Full Stack Web Development with Agentic AI** *(udemy)*
+- 📦 **GCP** *(Google)*
 
 ---
 
